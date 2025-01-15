@@ -7,7 +7,7 @@
 // 5. Stampare la matrice, la somma degli elementi e il valore massimo trovato.
 //
 // Suggerimento:
-// - Utilizza la classe Random per generare numeri casuali.
+// - Utilizza la classe Random per generare numeri casuali. 
 // - Per stampare la matrice, usa un ciclo annidato.
 
 public class Main {
