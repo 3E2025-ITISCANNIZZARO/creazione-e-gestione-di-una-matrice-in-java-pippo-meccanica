@@ -6,7 +6,7 @@
 // 4. Implementare un metodo che trovi il valore massimo nella matrice.
 // 5. Stampare la matrice, la somma degli elementi e il valore massimo trovato.
 //
-// Suggerimento:
+// Suggerimento: 
 // - Utilizza la classe Random per generare numeri casuali. 
 // - Per stampare la matrice, usa un ciclo annidato.
 
